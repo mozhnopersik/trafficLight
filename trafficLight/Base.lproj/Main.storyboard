@@ -97,7 +97,7 @@
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" red="0.1562250674929293" green="0.1562250674929293" blue="0.1562250674929293" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.15686274509803921" green="0.15686274509803921" blue="0.15686274509803921" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="suO-kx-6GW" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="51" id="9t6-qp-yce"/>
                             <constraint firstItem="MSa-si-MYw" firstAttribute="top" secondItem="suO-kx-6GW" secondAttribute="bottom" constant="27" id="CNh-Lh-Zc4"/>
