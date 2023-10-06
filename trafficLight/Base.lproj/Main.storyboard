@@ -62,7 +62,7 @@
                                         <rect key="frame" x="0.0" y="332" width="156" height="156"/>
                                         <subviews>
                                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="sYm-zS-tQk">
-                                                <rect key="frame" x="14" y="11" width="128" height="135"/>
+                                                <rect key="frame" x="14" y="14" width="128" height="128"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <color key="backgroundColor" systemColor="systemGreenColor"/>
                                             </view>
@@ -97,7 +97,7 @@
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="backgroundColor" red="0.1562250674929293" green="0.1562250674929293" blue="0.1562250674929293" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="suO-kx-6GW" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="51" id="9t6-qp-yce"/>
                             <constraint firstItem="MSa-si-MYw" firstAttribute="top" secondItem="suO-kx-6GW" secondAttribute="bottom" constant="27" id="CNh-Lh-Zc4"/>
